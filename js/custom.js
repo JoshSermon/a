@@ -10,17 +10,16 @@ $(document).ready(function() {
 
   /* Home Slideshow Vegas
   -----------------------------------------------*/
-  $(function() {
+ /* $(function() {
     $('body').vegas({
         slides: [
-            { src: 'images/Blue2.jpeg' },
             { src: 'images/Blue4.jpeg' }
         ],
         timer: false,
         transition: [ 'zoomOut', ]
     });
   });
-
+/*
 
    /* Back top
   -----------------------------------------------*/
